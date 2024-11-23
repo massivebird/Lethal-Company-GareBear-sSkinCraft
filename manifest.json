@@ -1,0 +1,9 @@
+{
+    "name": "Gare Bear's Skin Craft",
+    "version_number": "0.1.0",
+    "website_url": "https://github.com/thunderstore-io",
+    "description": "Garrett's custom skins! meow meow",
+    "dependencies": [
+        "x753-More_Suits-1.4.0"
+    ]
+}
